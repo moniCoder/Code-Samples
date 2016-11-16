@@ -1,3 +1,7 @@
+/*
+ * Tells if two words are anagrams
+ */
+
 public class Anagram {
     
     public static void main(String[] args) {
